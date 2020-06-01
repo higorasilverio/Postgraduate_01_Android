@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Postgraduate_01</string>
+    <string name="str_name">Name:</string>
+    <string name="str_description">Description:</string>
+    <string name="str_code">Code:</string>
+    <string name="str_price">Price:</string>
+    <string name="str_save">SAVE</string>
+    <string name="str_empty">Empty</string>
+    <string name="str_enter_name">Please, enter the name.</string>
+</resources>
